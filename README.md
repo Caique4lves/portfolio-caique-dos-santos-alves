@@ -46,10 +46,10 @@ Morei por 3 anos na Itália, onde aprendi italiano e aprimorei meu inglês.
 
 ## Contato
 
-[![iCloud](caiquealves@icloud.com)]
+[![Email](https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:caiquealves@icloud.com)
 
-[![LinkedIn](www.linkedin.com/in/caique-alves-643395273)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-alves-643395273)
 
-[![GitHub](https://github.com/Caique4lves)]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caique4lves)
 
 
