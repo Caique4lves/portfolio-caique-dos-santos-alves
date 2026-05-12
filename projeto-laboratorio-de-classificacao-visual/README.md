@@ -139,6 +139,6 @@ Utilize a webcam para adicionar exemplos de cada categoria.
 
 ### 5️⃣ Treine o Modelo
 
-Clicando no botão Train Model
+Clique no botão Train Model
 
 [⬆ Voltar ao topo](https://github.com/Caique4lves/portfolio-caique-dos-santos-alves)
