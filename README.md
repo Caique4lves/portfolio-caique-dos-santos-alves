@@ -1,71 +1,52 @@
-# Eu sou o Caique, prazer!
-
-Tenho 21 anos e sou graduando em Ciência da Computação.
-
-Atuo como analista de redes e suporte técnico desde 2023. Atualmente, meu principal objetivo é migrar para a área de desenvolvimento de software.
-
-Falo três idiomas:
-- Português
-- Italiano
-- Inglês
-
-Morei por 3 anos na Itália, onde aprendi italiano e aprimorei meu inglês.
-
+# Caique dos Santos Alves
+> Estudante de Ciência da Computação
+ 
 ---
-
-## Hard Skills
-
-### Programação
-- C#
-- Java
-- Python
-- C
-- JavaScript
-- HTML/CSS
-
-### Conhecimentos Técnicos
-- Lógica de programação
-- Análise de problemas
-- Análise de backups em servidores
-- Criação de domínio em redes
-- Formatação e manutenção de computadores
-- Upgrade de memória e SSD
-- Instalação e atualização de sistemas operacionais
-- Cotação de hardware e software
-
-### Idiomas
-- Português — Fluente
-- Italiano — Fluente
-- Inglês — Avançado
-
+ 
+### 📫 Contato & Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caique-alves-643395273)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caiquealves@icloud.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Caique4lves)
+ 
 ---
-
-## Projetos Principais
-
-### ScreenSound (C#)
-Sistema de gerenciamento musical desenvolvido em C#.
-
-### ContaBancaria (Java)
-Projeto de simulação bancária utilizando conceitos de orientação a objetos.
-
-### aluraBook (HTML/CSS)
-Landing page responsiva desenvolvida com HTML e CSS.
-
-### aluraPlus (HTML/CSS)
-Página inspirada em plataforma de streaming.
-
-### Produto (C#)
-Sistema de cadastro e gerenciamento de produtos.
-
-### Funcionario (C#)
-Projeto voltado para gerenciamento de funcionários.
-
+ 
+### 👨‍💻 Sobre
+Atualmente cursando o 7º período de Ciência da computação na Unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em infraestrutura de TI, redes, desenvolvimento backend e frontend.
+ 
+* **Habilidades Técnicas:** Python, Java, JavaScript, C#, C, HTML, CSS.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Experiência/Projetos Relevantes:** Atuei em ciência de dados onde desenvolvi o PowerBI do site de veterinária UniPet.
+ 
 ---
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-alves-643395273)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caique4lves)
-
-[![Email](https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:caiquealves@icloud.com)
+ 
+### 🛠 Minhas Ferramentas Favoritas
+ 
+#### 💻 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ 
+#### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+#### 🤖 Inteligência Artificial & Ciência de Dados
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ 
+---
+ 
+### 📂 Portfólio de Projetos
+ 
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Laboratório de Classificação Visual** | Treinamento de modelo de visão computacional focado na identificação de vieses algorítmicos e análise de impactos sociais. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
+| **Engenharia Reversa com IA** | Reconstrução Full-Stack de aplicações a partir da descrição lógica e funcional assistida por IA generativa. | [Ver Projeto](./projeto-laboratorio-de-engenharia-reversa/) |
+| **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase, design personalizado e implementação de novos recursos funcionais. | [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel-mvp/) |
+ 
+---
+ 
+### 🏗 Estrutura do Repositório
+Abaixo, a organização deste repositório para facilitar a navegação:
+ 
+- `root/`: Arquivo de apresentação principal.
+- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
