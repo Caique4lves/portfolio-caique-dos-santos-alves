@@ -5,9 +5,9 @@ Tenho 21 anos e sou graduando em Ciência da Computação.
 Atuo como analista de redes e suporte técnico desde 2023. Atualmente, meu principal objetivo é migrar para a área de desenvolvimento de software.
 
 Falo três idiomas:
-- Português 🇧🇷
-- Italiano 🇮🇹
-- Inglês 🇺🇸
+- Português
+- Italiano
+- Inglês
 
 Morei por 3 anos na Itália, onde aprendi italiano e aprimorei meu inglês.
 
