@@ -24,7 +24,7 @@ Durante o experimento, foi criado um modelo capaz de diferenciar pessoas **com �
 - Ética em Inteligência Artificial
 - Generalização de modelos
 
-O laboratório demonstrou, na prática, como um modelo de IA pode gerar resultados distorcidos dependendo da qualidade e diversidade dos dados utilizados no treinamento. :contentReference[oaicite:0]{index=0}
+O laboratório demonstrou, na prática, como um modelo de IA pode gerar resultados distorcidos dependendo da qualidade e diversidade dos dados utilizados no treinamento.
 
 ---
 
@@ -51,14 +51,6 @@ O laboratório demonstrou, na prática, como um modelo de IA pode gerar resultad
 
 ---
 
-## 🖼️ Demonstração do Projeto
-
-![Preview do Modelo](IMAGEM_1_AQUI)
-
-*Figura 1: Interface do modelo treinado realizando classificação em tempo real entre “Com óculos” e “Sem óculos”.*
-
----
-
 ## 🧪 Funcionamento do Modelo
 
 O modelo foi treinado utilizando duas categorias principais:
@@ -72,7 +64,7 @@ Entretanto, durante os testes, foi identificado um comportamento importante:
 
 > O algoritmo associava objetos próximos ao rosto como se fossem óculos, causando classificações incorretas.
 
-Esse comportamento ocorre porque o modelo aprende padrões visuais presentes no conjunto de treinamento, e não necessariamente o conceito real do objeto. :contentReference[oaicite:1]{index=1}
+Esse comportamento ocorre porque o modelo aprende padrões visuais presentes no conjunto de treinamento, e não necessariamente o conceito real do objeto.
 
 ---
 
@@ -88,9 +80,9 @@ Foram analisados problemas como:
 - Impactos sociais e jurídicos
 - Perda de confiança em sistemas inteligentes
 
-O documento destaca que decisões automatizadas podem gerar consequências sérias para empresas e usuários caso os modelos sejam treinados de forma inadequada. :contentReference[oaicite:2]{index=2}
+O documento destaca que decisões automatizadas podem gerar consequências sérias para empresas e usuários caso os modelos sejam treinados de forma inadequada.
 
-Além disso, o projeto enfatiza a importância da revisão humana no processo de treinamento e validação dos dados utilizados pela IA. :contentReference[oaicite:3]{index=3}
+Além disso, o projeto enfatiza a importância da revisão humana no processo de treinamento e validação dos dados utilizados pela IA.
 
 ---
 
@@ -120,25 +112,4 @@ Entre no site oficial:
 
 https://teachablemachine.withgoogle.com/
 
-### 2️⃣ Crie um Projeto de Classificação de Imagens
-
-- Selecione:
-  - **Image Project**
-  - **Standard Image Model**
-
-### 3️⃣ Treine as Classes
-
-Crie categorias como:
-
-- Com óculos
-- Sem óculos
-
-### 4️⃣ Capture as Imagens
-
-Utilize a webcam para adicionar exemplos de cada categoria.
-
-### 5️⃣ Treine o Modelo
-
-Clique no botão Train Model
-
-[⬆ Voltar ao topo](https://github.com/Caique4lves/portfolio-caique-dos-santos-alves)
+### 2️⃣ C
