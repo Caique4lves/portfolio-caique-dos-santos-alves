@@ -40,4 +40,4 @@ O projeto evoluiu de um gerador básico para uma suíte completa de customizaç�
 *Figura 3: Representação do fluxo de trabalho: Input -> Estilização -> Preview -> Export.*
  
 ---
-[Voltar ao início](https://github.com/seu-usuario/styler-qr)
+[Voltar ao início](https://github.com/Caique4lves/portfolio-caique-dos-santos-alves)
