@@ -1,4 +1,4 @@
-# 🎨 StylerQR - Personalizador de QR Codes de Alta Performance
+# 🎨 QR Code Styling - Personalizador de QR Codes de Alta Performance
  
 [![React](https://img.shields.io/badge/React-19.0-blue?logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
