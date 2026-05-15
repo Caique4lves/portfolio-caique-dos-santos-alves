@@ -112,4 +112,25 @@ Entre no site oficial:
 
 https://teachablemachine.withgoogle.com/
 
-### 2️⃣ C
+### 2️⃣ Crie um Projeto de Classificação de Imagens
+
+- Selecione:
+  - **Image Project**
+  - **Standard Image Model**
+
+### 3️⃣ Treine as Classes
+
+Crie categorias como:
+
+- Com óculos
+- Sem óculos
+
+### 4️⃣ Capture as Imagens
+
+Utilize a webcam para adicionar exemplos de cada categoria.
+
+### 5️⃣ Treine o Modelo
+
+Clique no botão Train Model
+
+[⬆ Voltar ao topo](https://github.com/Caique4lves/portfolio-caique-dos-santos-alves)
